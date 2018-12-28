@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-baidu-map\\android\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_marker_possess.png",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-baidu-map\\android\\src\\main\\res\\mipmap-hdpi\\icon_marker_possess.png"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-baidu-map\\android\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\location.png",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-baidu-map\\android\\src\\main\\res\\mipmap-hdpi\\location.png"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-baidu-map\\android\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\device_point_error.png",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-baidu-map\\android\\src\\main\\res\\mipmap-hdpi\\device_point_error.png"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-baidu-map\\android\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\device_point_normal.png",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-baidu-map\\android\\src\\main\\res\\mipmap-hdpi\\device_point_normal.png"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-baidu-map\\android\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_gcoding.png",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-baidu-map\\android\\src\\main\\res\\mipmap-hdpi\\icon_gcoding.png"
+    }
+]
